@@ -11,7 +11,7 @@ const HomePage: React.FC = () => {
                 <Card
                     title="Beautiful Apartment"
                     description="A lovely 2-bedroom apartment in the city center."
-                    imageUrl="/assets/apartment.jpg"
+                    imageUrl="./assets/564730784.jpg/"
                 />
             </div>
         </div>
