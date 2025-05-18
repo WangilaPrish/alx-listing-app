@@ -1,10 +1,5 @@
+import { ButtonProps } from '@/interfaces';
 import React from 'react';
-
-interface ButtonProps {
-    text: string;
-    onClick: () => void;
-    className?: string;
-}
 
 const Button: React.FC<ButtonProps> = ({ text, onClick, className }) => {
     return (
